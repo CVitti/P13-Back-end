@@ -1,4 +1,4 @@
-# Project #10 - Argent Bank API
+# Project #13 - Argent Bank API
 
 This codebase contains the code needed to run the backend for Argent Bank.
 
@@ -39,7 +39,7 @@ npm run dev:server
 npm run populate-db
 ```
 
-Your server should now be running at http://locahost:3001 and you will now have two users in your MongoDB database!
+Your server should now be running at http://localhost:3001 and you will now have two users in your MongoDB database!
 
 ## Populated Database Data
 
